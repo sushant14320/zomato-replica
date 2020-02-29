@@ -168,6 +168,17 @@ button.detect-btn{
     cursor: pointer;
 }
 
+button.order-btn{
+    border-radius: 11px;
+    background-color: limegreen;
+    border:1px;
+    padding: 10px 35px;
+}
+
+.order-btn:hover{
+
+        background-color:darkgreen;
+}
 .detect-btn:hover{
     background-color: gray;
 }
