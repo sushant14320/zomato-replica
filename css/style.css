@@ -228,6 +228,20 @@ input[type=text] {
   margin-left: 50px;
 }
 
+button.detect-btn {
+  border-radius: 10px;
+  padding: 9px 12px;
+  background-color: white;
+  color: black;
+  border: 1px gray solid;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.detect-btn:hover {
+  background-color: gray;
+}
+
 .widget {
   margin-left: 45px;
   margin-top: 115px;
