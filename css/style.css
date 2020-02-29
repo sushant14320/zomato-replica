@@ -304,8 +304,12 @@ div#widget {
 }
 
 .ad {
-  margin-left: 20px;
-  margin-top: 90px;
+  margin-left: 395px;
+  margin-top: -330px;
+}
+
+.code {
+  color: limegreen;
 }
 
 body {
