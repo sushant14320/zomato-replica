@@ -29,10 +29,40 @@ a{
     padding: 22px;
 }
 
+a.create:hover{
+    text-decoration: none;
+    color: rgb(232,232,232,0.5);
+    
+    transition: 0.7s;
+}
+
 .app{
     position: absolute;
     
 }
+a.getapp:hover{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.2);;
+}
+
+a.order:hover{
+    text-decoration: none;
+    
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+a.book:hover{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+
+a.gold:hover{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+
 
 .log{
     margin-top: 35px;
@@ -41,6 +71,12 @@ a{
 }
 .login{
     color: white;
+}
+
+a.login:hover{
+    text-decoration: none;
+    color: rgb(232,232,232,0.5);
+    transition: 0.4s;
 }
 
 .create{
